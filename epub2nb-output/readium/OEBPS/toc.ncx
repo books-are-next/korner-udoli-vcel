@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Údolí včel</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Část první VLCI</text>
+      </navLabel>
+      <content src="Text/udoli_vcel_005.xhtml#toc_marker-1"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>I Řádový slib</text>
+        </navLabel>
+        <content src="Text/udoli_vcel_006.xhtml#toc_marker-1-1"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>II Modlitba</text>
+        </navLabel>
+        <content src="Text/udoli_vcel_007.xhtml#toc_marker-1-2"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>III Rotgierův útěk</text>
+        </navLabel>
+        <content src="Text/udoli_vcel_008.xhtml#toc_marker-1-3"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>IV Útěk Ondřejův</text>
+        </navLabel>
+        <content src="Text/udoli_vcel_009.xhtml#toc_marker-1-4"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>V V Čechách</text>
+        </navLabel>
+        <content src="Text/udoli_vcel_010.xhtml#toc_marker-1-5"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>VI Milíře</text>
+        </navLabel>
+        <content src="Text/udoli_vcel_011.xhtml#toc_marker-1-6"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Část druhá VČELY</text>
+      </navLabel>
+      <content src="Text/udoli_vcel_012.xhtml#toc_marker-2"/>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>VII Doma</text>
+        </navLabel>
+        <content src="Text/udoli_vcel_013.xhtml#toc_marker-2-1"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>VIII Jak žijí včely</text>
+        </navLabel>
+        <content src="Text/udoli_vcel_014.xhtml#toc_marker-2-2"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>IX Letnice</text>
+        </navLabel>
+        <content src="Text/udoli_vcel_015.xhtml#toc_marker-2-3"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>X Stín nového kostela</text>
+        </navLabel>
+        <content src="Text/udoli_vcel_016.xhtml#toc_marker-2-4"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>XI Svatba</text>
+        </navLabel>
+        <content src="Text/udoli_vcel_017.xhtml#toc_marker-2-5"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
