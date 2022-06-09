@@ -109,8 +109,12 @@ Bůh s vámi, zrazení bratři, říkal svým pohledem. Množství osamělých 
 
 Začínal půst. Již se ozýval jednotvárný zpěv.
 
+  
+
 _Constant in choro  
 Sicut asellus in foro…_
+
+  
 
 zněl chorál nad arkádami, nad boční stranou refektáře.
 

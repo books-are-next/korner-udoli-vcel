@@ -315,17 +315,25 @@ Ty bestie! Ondřej pozpátku ustupoval od plazícího se těla, které se ho sna
 
 – Pusťte je! – vykřikl přes celý dvůr Ondřej a hlas se mu zlomil. Sotva mu bylo rozumět. Z vytažených dvířek se vzápětí vyřítila smečka a vrhla se na tělo, které osiřelo na dvoře. Blížil se konec, nebylo už síly, aby psy zastavila. Ondřej z Vlkova se ukryl za ochoz vnitřního domu. Čelem se přitiskl k trámu a tam se rozplakal s otevřenými ústy. Proč, Armine? Proč jsi nás všechny zabil? Jeho vzlykot však zanikal v štěkotu. Všemu bylo pozdě. Nikdy netoužil po takové spáse, nechtěl být svatým, chtěl jenom žít… Nešlo o pouhý trest. Armin dosáhl svého, ale za jak strašlivou cenu! Za cenu zničení toužebného, tolik deptaného, a přece vždy skutečného života. Ten nepřemůže, ještě se pozvedl na kolenou, ale už nebyl k poznání, jak ho psi zřídili. Nevzdával se. Od chumlu se plazil s bolestným kvičením odkopnutý pes. Nebezpečí probuzené vlčí smečky se nedalo zpřetrhat, ještě měli společné sousto a začnou požírat jeden druhého. Vlci jako řádoví bratři… do štěkotu, odrážejícího se tak pustě kolem stěn, se vkrádal šepot, bezútěšný hlas sborové modlitby, která přehlušuje a ničí postupně vše. Slova Jobova:
 
+  
+
 _Nebudu lačněti více,  
 ani žízniti více, a nebude  
 mě bíti slunce, ani žádné horko pekelné…_
 
+  
+
 Opak šepotu spásy! Hluk pojednou utichal, ztrácel na důrazu. Na ochozu se bělal odhozený řádový plášť a čekal na Ondřeje, aby jej zvedl. Ondřej z Vlkova už neplakal, jeho tvář se ztrácela v šeru, ustupoval do hloubi a temnoty domu. Prokletý řád tu promlouval a dosáhl svým pařátem až sem, nic jiného nezbylo na širém světě.
+
+  
 
 _Hrob otevřený jest  
 hrdlo jejich, jazyky svými  
 lstivě mluvilo,  
 jed lítých hadů jest pod rty  
 jejich…_
+
+  
 
 Viděl, jak se bratr na dvoře zakymácel. Chomáč psů se teď vrhl do výše po odhozeném plášti a pak se celé to klubko zavlnilo, zazmítalo v jediném místě po prašivé zemi. Jako plachty pohlcené vírem na širém moři a už nebylo Armina z Heide.
 
