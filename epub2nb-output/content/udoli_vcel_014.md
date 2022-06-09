@@ -3,8 +3,6 @@ title: VIIIJak žijí včely
 contentType: prose
 ---
 
-  
-
 Ondřeje z Vlkova probudilo slunce. Vnikalo škvírami až k podsadě s kůžemi. Vyklouzl z nich bez hluku, zvykem řádového bratra, aby neprobudil ostatní. Ale dnes přespal sám a musel si to opakovat, aby všemu uvěřil. Odhodil závoru ze dveří, bosý šel pak k oknu a odkryl zbytek okenice. Kraj, do kterého vyhlédl, ležel na slunci.
 
 Všechno bylo tak známé, všechno si pamatoval, a přesto tu trčel stín v jasném jitru. Co tam stálo mezi ovocnými stromy a číhalo na jeho procitnutí? Tráva kolem tvrze byla posečená, zvedala se do výšky k lesu a tam se něco zabělalo, zdálo se mu, že spatřil bledý obličej, který ho děsil i ve spánku. Plášť s černým křížem, postavu s mečem. Byl to Armin?

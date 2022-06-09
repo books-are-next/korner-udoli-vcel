@@ -3,8 +3,6 @@ title: IIIRotgierův útěk
 contentType: prose
 ---
 
-  
-
 Kamenná závaží pro řetězový most se pohnula, křápla o fošny a brána se otevřela. Půst se pro tuto chvíli odkládal. Tuří rohy hučely, koně odfrkovali. Všude po ochozech se ozývalo dupání a řinčení zbraní vybíhajících řádových rytířů. Zásobili se zrním a jehňaty, jedno hned podřízli, a v kalupu zapomněli na sůl. Místo postní ryby dostali každý tříkilovou porci syrového masa.
 
 Noc plná zrady začínala.

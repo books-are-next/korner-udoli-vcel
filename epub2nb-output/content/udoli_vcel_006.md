@@ -3,8 +3,6 @@ title: IŘádový slib
 contentType: prose
 ---
 
-  
-
 Mezi mechem a křovinami probleskoval tichý a přátelský ostrůvek uprostřed lesa: planina se včelami. Měly tu klát, ovocné sádky, jívy i olše kolem potoka, a tak ani daleko nelétaly, zdomácněly tu. Jejich bzukot naplňoval vzduch i mysl chlapce sklánějícího se nad slaměnými koši. To on je přenesl na mýtinku z okolního pralesa a včely mu lezly po předloktí, šimraly kůži a dnes ho ještě žádná z nich nepobodala, patřil k nim.
 
 I pro tuto chvíli nejškaredějšího dne nad rodným Vlkovem. Z dálek opačného konce údolí dotíral zvuk zvonu, slavnostně, a přece bídněji než zvuky umíráčku před čtyřmi léty. Tam, ve zvonici nového kostela, byli teď všichni lidé z domu, tam, pod náhrobními kameny, ležela v hlíně matka. Když ji ukládali, žaloval zvon ještě na prastarých trámech a kaple vypadala jako přibita lijáky i lesními požáry. Nyní řvala střecha čerstvými šindeli a zvonice kamenným zdivem, deště ani požáry ji nemohly ohrozit. Ten pevný kostelík dal vybudovat k matčině památce otec a vysvětit jej přišli němečtí mniši.

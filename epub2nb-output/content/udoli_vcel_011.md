@@ -3,8 +3,6 @@ title: VIMilíře
 contentType: prose
 ---
 
-  
-
 Tichaplný a bezpečný bývá takový střed lesa, zbavuje své obyvatele tísně podhradí, zákeřnosti kupeckých cest, dává jim obživu a chrání před rozmary vládců. Vlídné útočiště pro člověka, pokud se v lese narodil, avšak kruté stanoviště pro toho, kdo je tu vetřelcem.
 
 Uhlíři, co pálívali dřevěné uhlí, znali svůj prales. Srostli s vlky i příšerami a rádi přijímali do svých chvojových srubů lidské vyvržence. Bývala to divoká tlupa! Za mrazivých nocí zalézali do děr a kožešin, nanejvýš si přes zimu nakáceli potřebné množství bukového či jedlového dřeva a pak čekali na jarní tání. Neboť kromě dříví byla nejpotřebnější k jejich práci voda. A tak žili v blízkosti propustí a potoků a z doupat je vyhánělo teprve jaro. Vítali je po svém. Nejdříve urovnali louku při potoce, až byla rovná jak mlat, pak zarazili kůl. Prastaré obětiště mezi prvními bledulemi a blatouchy. Tělo obětovaného zvířete i člověka se pěkně obložilo dokola poleny, jako když vkládáš mršinu do mraveniště. Tu kupu pokryli tarasem, uplácali prkny a zasypali mourem a ponechali jen kruh pro založení ohně. Pěkná mohyla vzplanula vprostřed vzrostlého lesa a zlí duchové a lesní skřeti již nekazili uhlířskou práci. Dostali svou oběť a v tu noc se neodvažovali zabloudit k milířům klášterní lovci ani svatí poustevníci a lidé z vesnic.

@@ -3,8 +3,6 @@ title: XStín nového kostela
 contentType: prose
 ---
 
-  
-
 Ondřej z Vlkova spal, s hlavou nachýlenou, stočený v kůžích, jako by naslouchal neslyšitelným otřesům v útrobách rodné tvrze. Dnes se sem nedostalo slunce. Okna byla vycpána kameny a zmenšená tak na pouhé střílny, ráno už minulo a protáhlo se dávno do první čtvrti dne. Podmrak prodlužoval Ondřejův spánek. A přesto se k němu prodíral do uzavřené komory tlumený, praznámý šum. Takový slýchal za klidných nocí v řádovém sále, když odumírala bolest i hlasy lidí. Jako by sem k spícímu prýštilo všemi skulinami šumění blízkého moře. Ten zvuk provázel každodenní probuzení jednotvárně jak objetí ženy. Dnes trval nejdéle. Z kůží prchalo teplo a v jitřním obraze se odpoutávala vlna, nabírala se do výše a letěla k němu. Ta jeho! Tak tiše, že předbíhá svůj šumot jako blížící se smršť a oblévá tě celého, sráží k písčině…
 
 Otevřel oči.
