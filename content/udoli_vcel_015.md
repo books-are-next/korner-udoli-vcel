@@ -3,8 +3,6 @@ title: IXLetnice
 contentType: prose
 ---
 
-  
-
 Nezapršelo.
 
 Všechny bouřky se úporně vyhýbaly Vlkovu. Na tvrz dolehlo ticho, nic se ani nepohnulo v žáru. Hlína na dvoře popukala. Střechy obou věžiček zářily, jenom kočka se plížila střešním okénkem ke kurníkům. Jinak nic.

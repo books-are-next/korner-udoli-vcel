@@ -3,8 +3,6 @@ title: VIIDoma
 contentType: prose
 ---
 
-  
-
 Ještě záhyb stezky, ještě břeh propletený vrbovím a zabělají se zdi. Tam! Stovka posledních kroků, těch nejtěžších, a chodník v borůvčí končil. Ten pohled byl příliš toužebný, aby potěšil, když se stal skutečným. Mýtina s trávou a ještě vyšším kapradím se svažovala. Hned pod lesem stál rozlehlý zemanský dvorec a slunce zářilo na obou malých věžích a kamenných zdech. Střecha byla zašedlá šindeli. Prošlá léta dala dřevu pevnost kovu. Proč tak všechno strašně zevšední, když se vracíš domů?
 
 Ondřej z Vlkova stál dosud skrytý za stromem na pokraji lesa. Měl na sobě zbytky drátěné košile, provaz kolem pasu, v rohové pochvě dýku. Kdo nad ním zaběduje první? Bylo otevřeno.

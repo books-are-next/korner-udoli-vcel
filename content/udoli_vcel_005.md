@@ -1,7 +1,6 @@
 ---
-title: ''
+title: Část prvníVLCI
 contentType: prose
 ---
 
-Část první  
-VLCI
+

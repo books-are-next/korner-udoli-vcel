@@ -3,8 +3,6 @@ title: "VV\_Čechách"
 contentType: prose
 ---
 
-  
-
 Z lesa vyjel osamělý jezdec, cíp bílého pláště s černým křížem mu padal přes ramena až na bok koně. Horská louka se svažovala. Kraj pod ní ležel na slunci. Vřesovitá tráva sahala místy až ke slabinám koně. Jezdec měl zavřené oči, jako by spal nebo chránil tvář před sluncem. Jeho odění bylo pokryto prachem, jeho světlé vlasy se odrážely proti stěně lesa.
 
 Byl to Armin von der Heide.

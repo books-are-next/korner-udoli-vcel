@@ -3,8 +3,6 @@ title: XISvatba
 contentType: prose
 ---
 
-  
-
 A bylo po deštích. V kraji se ještě potloukala bouřka, ale tentokrát se zdaleka vyhnula Vlkovu. Také šindele na střeše nového kostela již oschly a zabělaly se nanovo v údolí. Klenutým okénkem sem proudilo slunce za starým křivým tisem. Pamatoval jistě pohanský věk a křesťanský čas strom nezdolal. Z větví se sypalo staré jehličí, vysušovalo půdu i základy nového kostela.
 
 Před oltářem klečeli na květinách muž a žena, oba v bílých šatech. V bělosti rubáše či svatebního šatu, neboť v dosahu památného tisu smrt i život jedno jsou. A budou další věky!
