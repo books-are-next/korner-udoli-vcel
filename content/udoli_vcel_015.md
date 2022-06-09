@@ -19,26 +19,42 @@ Prádlo k namočení čekalo v nůších, průhledem spatřila kus stínů ovo
 
 Neprosila o vodu ani o stín. Opřela se hlavou o zeď. Udeřit tak dvakrát třikrát do kamení za sebou, až to zašumí jak krůpěje spásného deště. Spočívala však bez dechu, ruku položenu k hrdlu, poodhalila si hruď, a skutečně, v tichu se k ní blížilo šumění jak rajský zpěv:
 
+  
+
 _Vítám tě, vodo, vodičko čistá  
 z hor, z řek a kamení,  
 obmyj mne, hříšné stvoření…_
 
+  
+
 Lenora se zaposlouchala, jako by nedokázala pochopit, odkud ten popěvek vychází. Byl to zpěv dětí a jejich jasné hlasy se přibližovaly:
+
+  
 
 _Krásná paní, pěkně prosím,  
 dej nám tu trošku…_
 
+  
+
 Ještě daleko na louce vyšel z úvozu zástup dětí, do jejich zpěvu se ozýval klapot řehtaček z psích kostí. Bylo jich tolik! Děvčátka s věnci ve vlasech, se zvířátky z vypálené hlíny v prázdných ošatkách; se všemi žlutými květy léta.
+
+  
 
 _Smrt jsme vám odnesli,  
 nové líto přinesli,  
 vítej líto líbezné,  
 obilíčko zelené…_
 
+  
+
 Lenora se odplížila bodláčím až k boční brance. Z chlévů se ozvaly žíznící krávy, vzlétli holubi. To všechno mají děti rády, přidaly se k povyku a zaplnily již dvůr a obešly dokolečka jabloň:
+
+  
 
 _Gloriá, gloriá,  
 aby ta děvečka rodila…_
+
+  
 
 Za brankou stál světlovlasý chlapec a bil kostěnou klapačkou do vyhřátých fošen, vtíravě, jako by Lenoře zaťukal do spánků datel. Měl tak slabounké nohy i vyzáblé ručky, uviděl Lenoru v zaschlém pýru a usmíval se na ni…
 
@@ -104,10 +120,14 @@ Tady! Bez křtu, bez naděje na spásu, hůř než pes! Léta a potůčky vody 
 
 Děti se vyhrnuly ze vrat a poskakovaly:
 
+  
+
 _Hop, škrt,  
 černá pentle na krk  
 a červená na čelo,  
 jak by ti to svědčilo!_
+
+  
 
 Klapačky udávaly takt, děti obklopovaly paní Lenoru a chtěly ji strhnout do kola. Plácnout do suknice, dupnout bosýma nohama do prachu, až by to zavířilo. Bylo mezi nimi mnoho děvčat ve věku, kdy sama přišla na Vlkov jako nevěsta, poházely dvorek lístky z kopretin. Lenora jim naplnila košíky i ošatky ovocem, křížalami i ořechy, všemi dary, co na usedlosti zbyly. Otočila se v tom reji a byla jen o hlavu výš, ale tmavá ve svých strohých šatech. Ty dusily tělo, zatěžkávaly nohy. Každé pousmání ji zabolelo, každé pohlazení dvojnásob. Zamotala se před branou, když ji děti pustily a rozběhly se.
 
@@ -115,9 +135,13 @@ Nebyla už děvče ani matka. Smích dětí se od ní vzdaloval, slunce tolik ne
 
 Ukažte jí cestu širou, kudy hříšní do pekel jdou! Kolik jen svátků světila, kolik se pátků postila, kolik chudých obživila… Ani jedno dítě! Jalovice! Děti se už ztratily louce, teprve pak se Lenora probrala a uvědomila si, že ještě drží prázdnou ošatku a stojí sama před vraty jak nějaká coura.
 
+  
+
 _Podej, hříšná duše, ruky, povedu tě skrze muky,  
 skrze muky do propasti, a z propasti do radosti!  
 Grešlička, almužna malá, do ráje tobě pomohla…_
+
+  
 
 Tak zpívali žebráci při svatbě! Odhodila ošatku a šla přes dvůr jako poslepu, kroky ji vedly ke stáji již najisto. Na krabaté zdi byly zatlučeny čtyřboké hřeby se zářezy a na nich všechno, co pro tu chvíli potřebovala k útěše. Chvíli postála před trámem, někdo sem založil kladivo k naklepávání srpů. To nyní nehledala.
 
@@ -199,12 +223,18 @@ V létě se začíná nový den soumrakem.
 
 Slunko padalo zplna už jenom na obě protější hory, protahovalo stíny tvrze do krajiny přes úvozy a výmoly i shluky osamělých stromů. Děti běžely po kvetoucí louce k dubině. Ještě zpívaly a pronásledovaly nejmenšího chlapce. Mávaly nad sebou slaměnými loutkami a kozlí hlavou opentlenou stuhami a mezi stromy se rozletěl jejich pokřik i klapot kostěných řehtaček.
 
+  
+
 _My Jidáše honíme  
 a dřevem mu zvoníme,  
 kdo ho viděl, ať nám poví  
 o nevěrným Jidášovi…_
 
+  
+
 Světlovasý hošík kličkoval a snažil se skrýt s usušenými jeřabinami a pečenými jablky, ale les to byl nevalný, šlehal kopřivami a vraními oky. Tlukot klapaček by vyplašil i straky a zajíce v křoví, děti už uprchlíka dostihly.
+
+  
 
 _Ó, Jidáši nevěrný, cos to učinil?  
 Že jsi Pána Krista Židům prozradil?  
@@ -212,6 +242,8 @@ Za to musíš v pekle hořit,
 s čertem, ďáblem se tam mořit,  
 až Jidáše chytíme,  
 do ohně ho hodíme!_
+
+  
 
 Nenadálý, pln příšeří však bývá takový okraj lesa, když sem vběhneš z osvícené louky. Než stačily děti přizpůsobit oči, klopýtly přes kořeny a vyjekly hrůzou. Ze šera dubiny před nimi někdo vystoupil a zastoupil jim lesní pěšinu s napřaženým mečem.
 
