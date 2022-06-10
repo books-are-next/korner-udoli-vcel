@@ -3,6 +3,8 @@ title: "VV\_Čechách"
 contentType: prose
 ---
 
+<section>
+
 Z lesa vyjel osamělý jezdec, cíp bílého pláště s černým křížem mu padal přes ramena až na bok koně. Horská louka se svažovala. Kraj pod ní ležel na slunci. Vřesovitá tráva sahala místy až ke slabinám koně. Jezdec měl zavřené oči, jako by spal nebo chránil tvář před sluncem. Jeho odění bylo pokryto prachem, jeho světlé vlasy se odrážely proti stěně lesa.
 
 Byl to Armin von der Heide.
@@ -282,3 +284,5 @@ Kdosi jim podstrčil před obličeje jílec meče. Kov zazářil v přísvitu o
 Armin von der Heide odstoupil od ohně a uložil meč do pochvy. Cíl jeho putování byl nedaleko. Šel odvázat koně. Dál bylo zbytečné každé slovo, lovci hned zalili oheň.
 
 A teprve teď si všiml, že krajinu zalévá měsíční světlo. Bylo vidět každý strom i člověka v jakémsi neskutečném tichu, krajina byla plna jednotlivostí, a přesto zůstala němá, jako by se zčistajasna octl v pohanském pralese v Mazurách.
+
+</section>

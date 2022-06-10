@@ -3,6 +3,8 @@ title: VIIIJak žijí včely
 contentType: prose
 ---
 
+<section>
+
 Ondřeje z Vlkova probudilo slunce. Vnikalo škvírami až k podsadě s kůžemi. Vyklouzl z nich bez hluku, zvykem řádového bratra, aby neprobudil ostatní. Ale dnes přespal sám a musel si to opakovat, aby všemu uvěřil. Odhodil závoru ze dveří, bosý šel pak k oknu a odkryl zbytek okenice. Kraj, do kterého vyhlédl, ležel na slunci.
 
 Všechno bylo tak známé, všechno si pamatoval, a přesto tu trčel stín v jasném jitru. Co tam stálo mezi ovocnými stromy a číhalo na jeho procitnutí? Tráva kolem tvrze byla posečená, zvedala se do výšky k lesu a tam se něco zabělalo, zdálo se mu, že spatřil bledý obličej, který ho děsil i ve spánku. Plášť s černým křížem, postavu s mečem. Byl to Armin?
@@ -218,3 +220,5 @@ Znovu zahřmělo. Do krajů lesa pražilo ještě slunce a krajem se hnal vichr
 Mnich si zul sandály a spěchal údolím bosý. Dál v údolí stál kostelík z tesaného kamene, podobal se třísce, kterou tu zapomněli nebeští tesaři a nechali napospas pekelné přírodě a větrům. Než se dostal Blasius na pořádnou cestu, byly obrysy kostela i čerstvé šindele na střeše zcela zakryty zvířeným prachem…
 
 Mnich si nezoufal. Do kovového křížku na věži dosud neuhodilo, vichřice nerozházela střechu. Přišel do tohoto kraje až ze starobylého biskupského Řezna a lidé mu tu říkali: tatíček Blažej!
+
+</section>

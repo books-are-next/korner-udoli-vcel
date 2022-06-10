@@ -3,6 +3,8 @@ title: XStín nového kostela
 contentType: prose
 ---
 
+<section>
+
 Ondřej z Vlkova spal, s hlavou nachýlenou, stočený v kůžích, jako by naslouchal neslyšitelným otřesům v útrobách rodné tvrze. Dnes se sem nedostalo slunce. Okna byla vycpána kameny a zmenšená tak na pouhé střílny, ráno už minulo a protáhlo se dávno do první čtvrti dne. Podmrak prodlužoval Ondřejův spánek. A přesto se k němu prodíral do uzavřené komory tlumený, praznámý šum. Takový slýchal za klidných nocí v řádovém sále, když odumírala bolest i hlasy lidí. Jako by sem k spícímu prýštilo všemi skulinami šumění blízkého moře. Ten zvuk provázel každodenní probuzení jednotvárně jak objetí ženy. Dnes trval nejdéle. Z kůží prchalo teplo a v jitřním obraze se odpoutávala vlna, nabírala se do výše a letěla k němu. Ta jeho! Tak tiše, že předbíhá svůj šumot jako blížící se smršť a oblévá tě celého, sráží k písčině…
 
 Otevřel oči.
@@ -336,3 +338,5 @@ Ondřej vzal pergamen, sroloval jej v pěsti a přihodil do ohně. A připomn
 – Byl jsem také mnich! –
 
 Oheň se rozhořel. Blasius čekal, až mu Ondřej naplní pohár. Víno bylo zdejší, mělo barvu lesních bylin a bobulí z okolních kopců, zavonělo černým bezem. Ondřej se sám napil a podal pak pohár Lenoře. Dívala se na něj a dopíjela do dna. Stáli u praskajícího ohně, teplé zášlehy jim ozařovaly obličeje a perlily se ve víně. Společným pohárem tu byla právě zpečetěna jiná smlouva, platnější než latinsky psaná slova, která pohltil plamen; neředěné víno neslo pečeť lásky.
+
+</section>
