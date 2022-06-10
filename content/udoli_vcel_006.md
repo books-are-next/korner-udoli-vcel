@@ -3,6 +3,8 @@ title: IŘádový slib
 contentType: prose
 ---
 
+<section>
+
 Mezi mechem a křovinami probleskoval tichý a přátelský ostrůvek uprostřed lesa: planina se včelami. Měly tu klát, ovocné sádky, jívy i olše kolem potoka, a tak ani daleko nelétaly, zdomácněly tu. Jejich bzukot naplňoval vzduch i mysl chlapce sklánějícího se nad slaměnými koši. To on je přenesl na mýtinku z okolního pralesa a včely mu lezly po předloktí, šimraly kůži a dnes ho ještě žádná z nich nepobodala, patřil k nim.
 
 I pro tuto chvíli nejškaredějšího dne nad rodným Vlkovem. Z dálek opačného konce údolí dotíral zvuk zvonu, slavnostně, a přece bídněji než zvuky umíráčku před čtyřmi léty. Tam, ve zvonici nového kostela, byli teď všichni lidé z domu, tam, pod náhrobními kameny, ležela v hlíně matka. Když ji ukládali, žaloval zvon ještě na prastarých trámech a kaple vypadala jako přibita lijáky i lesními požáry. Nyní řvala střecha čerstvými šindeli a zvonice kamenným zdivem, deště ani požáry ji nemohly ohrozit. Ten pevný kostelík dal vybudovat k matčině památce otec a vysvětit jej přišli němečtí mniši.
@@ -65,7 +67,9 @@ Slova přísahy vsakovalo poklidné slunce nad Vlkovem, nemohla dolehnout až k�
 
 Tam stála malá nevěsta a plakala… až po bradu ovázaná bělostným plátnem a s čelenkou ve vlasech, líbezná jako maminka uložená v rakvi.
 
-  
+</section>
+
+<section>
 
 A nastalo ticho, jen přes nádvoří fučel vítr. Kované dveře se otevřely a po freskovém sále se šířilo zcela jiné světlo. Pronikavé svou ostrostí, nezamlžené prachem a poletujícími plevami jako na rodné tvrzi, bylo to věčné světlo v nádobě s hořícím olejem.
 
@@ -156,3 +160,5 @@ Vál tu věčný severozápadní vítr a jediným závětřím byl pahýl lodě
 Řádový rytíř konečně přistoupil k prochladlému dítěti, zahalil to tělíčko svým pláštěm a pak je pozvedl do výše svých prsou. Řetězová košile zamrazila, ale pohled řádového bratra byl hřejivý jak spánek v kůžích.
 
 – Budeme přáteli, Ondřeji, chceš? – řekl křižák a políbil chlapce na ústa. Cítil ten hřejivý dotek i plášť, který mu třel tělo do sucha. Tak ho mohla líbávat jen matka, uvědomil si chlapec a netušil, že mnichovo políbení bude prvním a zároveň posledním lidským dotekem za všechna ta léta, co měl prožít mezi řádovými bratry.
+
+</section>

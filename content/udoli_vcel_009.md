@@ -3,6 +3,8 @@ title: IVÚtěk Ondřejův
 contentType: prose
 ---
 
+<section>
+
 Z celého nádvoří bilo Armina von der Heide prudké sluneční světlo. Střechy se pokojně leskly, v příkopech stačily rozkvést olše, z věží pokřikovalo ptactvo. Za poslední čas příroda poskočila k přepestrému životu. Neochotně nastavil tvář jarnímu slunci, které pálilo rovnou k němu, a hned je přivřel. Šero si nemohl vrátit, navíc žíznil. V granitovém korýtku při cihlové zídce šelestila voda, k té by trefil i poslepu. Nad pramenem byla deska s vytesanými postavami Krista, přicházejícího se svými apoštoly ke studni, kde mu podává vodu žena.
 
 Armin von der Heide přistoupil ke žlabu, sklonil se, aby si nabral vody do dlaní a zchladil si obličej i pálící víčka, a vtom uslyšel posměšek:
@@ -216,3 +218,5 @@ Z Visly čišel chlad, už do ní nepršelo jako v posledních třech dnech, a
 Ale obloha se neprosvětlila, sem k vodám Visly se slunci ještě nechtělo, vycházelo daleko v moři…
 
 Tam také končila zcela jistě řádová hranice.
+
+</section>

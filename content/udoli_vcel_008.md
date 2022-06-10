@@ -3,6 +3,8 @@ title: IIIRotgierův útěk
 contentType: prose
 ---
 
+<section>
+
 Kamenná závaží pro řetězový most se pohnula, křápla o fošny a brána se otevřela. Půst se pro tuto chvíli odkládal. Tuří rohy hučely, koně odfrkovali. Všude po ochozech se ozývalo dupání a řinčení zbraní vybíhajících řádových rytířů. Zásobili se zrním a jehňaty, jedno hned podřízli, a v kalupu zapomněli na sůl. Místo postní ryby dostali každý tříkilovou porci syrového masa.
 
 Noc plná zrady začínala.
@@ -177,77 +179,105 @@ Proklínal Ondřeje, Armina i knechty a nakonec celý řád. V půli cesty p�
 
 Domů! Už vjížděli na roubenou cestu, za písečným náspem stál řádový hrad. Armin von der Heide hovor za sebou ani úpění lapeného Rotgiera stejně neslyšel. Pohyboval při jízdě rty a skláněl hlavu, a jeho první polozřetelná slova, kterými zaháněl únavu i spánek, byla pokynem k modlitbě, která sílila:
 
-  
+</section>
+
+<section>
 
 _Nebudou lačněti více,  
 ani žízniti více a nebude na ně  
 bíti slunce, ani žádné horko pekelné…_
 
-  
+</section>
+
+<section>
 
 To štěstí si našel až v tomto kraji. Tady slunce nezabíjelo a nemořilo, málokdy mu zasvítilo na cestu v dunách a hřálo do zad. V židovské zemi na cestě k hrobu božímu mu šel vstříc a zároveň šel vstříc zhoubě. Už nikdy nepotáhne na jih. Sepjal na stvrzení tohoto slibu ruce a předříkával slova, jejichž smyslu trochu rozuměl, a k jeho hlasu se přidávaly hlasy další, ještě zmatenější a tápající. Na nádvořích, nad refektářem i v kapitule, všude začínala tma.
 
-  
+</section>
+
+<section>
 
 _Hrob otevřený jest  
 hrdlo jejich, jazyky svými lstivě  
 mluvilo, jed lítých hadů jest  
 pod rty jejich…_
 
-  
+</section>
+
+<section>
 
 Cely řádových bratří se zavíraly. Sloužící bratří zalézali do stájí pro jízdní koně, koně se svázanýma nohama zůstali venku v ohradách. Ještě nepršelo, nevál vítr, ale již zavírali klece pro psy a pro sokoly. I dravci se schoulili hladem, psi ani nezavyli, a přitom se říká, že když se ohýbá tráva, musí vát odněkud vítr. Kdo má dnes v srdci naději, má i ďábla v duši. Zbyl tu osvětlen jen nápis nad hradní kaplí nejsvětější Panny Marie jeruzalémské: Já jsem Ježíš, světlo vaše! A všechno dál pohaslo, do přítmí se ztratily plnovousy rytířů i jejich černé kříže na pláštích, uléhali přes žíně a písek na podlahu v celách. Klesali jak omámení a záhy si budou podobní vyhublými tvářemi i vyhaslými pohledy, jako by přestali být živými a neměli pozvednout nikdy už své meče s jílci ve tvaru kříže. Kam se to obraceli? Mniši naposledy posvítili do cel loučemi, aby řekli počet modlících se komturovi. Bude to pevný počet, jen málokdy někdo půstem zemře, zrodí se znovu a vstanou… až na jednoho!
 
 Již se ozýval milostný chorál:
 
-  
+</section>
+
+<section>
 
 _San-cta Ma-ri-a,  
 sancta De-i ge-nitrix_
 
-  
+</section>
+
+<section>
 
 K chvále nebeské orodovnice, ta vleje útěchu a slast i tomu nejubožejšímu. Noc by zdusila i vzlykot. Boční dvířka se otevřela a dva sloužící mniši uvedli Ondřeje z Vlkova do kajícnické cely. V té ještě nenocoval, byla nedaleko hradní studny, a tak po zdech stékala voda. V klenuté hrobce bylo okénko, a ani nebylo zamřížované, na zemi ležely plesnivé kůže. Lůžko mu milosrdní mniši odnesli a nechali kajícníkovi jeho plášť a také meč, aby měl před sebou kříž na jílci, dýku mu odebrali. Pak jen zavřeli dveře na lipovou závoru a odnesli si také světlo, ale Ondřej z Vlkova neosaměl zcela ve tmě. Okénkem viděl jedinou hvězdu nad javorem za hradní studnou. Byla to Severka, nebo jedna z těch, jaké vídal nad rodným Vlkovem. K té se může obracet po všechny noci půstu a modlit se. Jako by šla panna s korunou ve vlasech obilným sadem.
 
-  
+</section>
+
+<section>
 
 _O Maria, Virgo et Mater sanctissima…_
 
-  
+</section>
+
+<section>
 
 Komtur Rawino a význační členové řádu klesli před oltářem, u stropu nad nimi čadila lampa s hořícím olejem, kolem stěn čpěly smolnice na železných trnech spletených jako koruna Kristova. Ti trávili postní čas pospolu a budou vzývat nedosažitelnou ženu, nadpozemský obraz Panny ověnčený květy zaschlými z loňska. Panna se usmívala, po skončení velikého půstu se mnohým změní za ženu skutečnou, za jednu z řádových pomocnic či pruskou zajatkyni. Koruna spásy sletí, v sadě tělo leží a zkormoucenou duši zas dotek oblaží.
 
 A již to šlo, každé zvolání jako úder sborového zvonu:
 
-  
+</section>
+
+<section>
 
 _Ma-ter divina  
 Ma-ter pu-ris-si-ma_
 
-  
+</section>
+
+<section>
 
 Matko zázračná, matko nejsvětější, matko nejmilejší…
 
 Slova vyrážela v klenutí, pronikala štěrbinami střílen a letěla přes nádvoří až k psinci. Tam slábla do šepotu pokory a smíření. Modlil se i uprchlý bratr Rotgier. S převázaným krkem a umytou hrudí si zakryl obličej a už nevzdoroval. Nebylo proč. Sloupli z něho šaty, zbytkem smyčky mu svázali ruce a udeřili ho do žeber, aby vstal. Zbytky křižáckých šatů zůstaly jako cár na přeťaté paži. Ani nevyjekl. Netřásl se bázní a pozemským neklidem ani rouháním a tužbami po ženách. Rty potřísněné zradou prosily o odpuštění.
 
-  
+</section>
+
+<section>
 
 _Ma-ter amabilis,  
 Ma-ter Sal-va-toris,  
 o-ra pro no-bis…_
 
-  
+</section>
+
+<section>
 
 Matko spravedlivá, matko spásná, oroduj za nás… Pozdě! Mů­žeš odpouštět všem hříšníkům, ale nikdy ne bratřím, co zradili! Křižákem jednou, křižákem provždy! Řádoví kati otevřeli železnou branku v odpadové věži a vhodili nahé tělo do propasti psince. Rotgiera ovanul puch výkalů. Tam snad ne, proboha! chtěly by rty vykřiknout, ale omdlel pádem a slitování přišlo. Odevšad se k němu vrhli s radostným štěkotem a kvikotem půstem zdivočelí psi, trhali tělo na kusy. I toto rvaní bylo ztlumené zdivem odpadové věže, ne­uslyšeli je urození rytíři, dlící na modlitbách v kapli, ani Armin von der Heide drmolící latinské modlitby na podlaze své cely. Smyslu nerozuměl, litanii se naučil zpaměti, vystačí na první noc a druhý den, pak přijde polobdění, stav podobný extázi pravých světců.
 
 A modlitba zesílila, zazněla jako sborový výkřik vran před spánkem, přehlušila bez zadostiučinění, a také bez účastenství, okamžik zániku těla požíraného psy.
 
-  
+</section>
+
+<section>
 
 _Gaudet chorus caelestium  
 et Angeli canunt Deo!_
 
-  
+</section>
+
+<section>
 
 Chvalte Boha na výsostech, chvalte jej mocnosti nebeské, všechna tělesa a hvězdy, i plazové, ptáci a hovada pozemská, chval jej i ty, kdo bloudíš…
 
@@ -255,15 +285,21 @@ Tak zněla prosba před bitvou, ke které už půl roku nedošlo. Pohani byli po
 
 Zemdlení křižáci dávno usnuli vysílením v celách, pod štíty zavěšenými po stěnách. Už jediný Armin von der Heide bděl ve své cele, cítil slábnoucí hlasy ostatních bratří, modlil se sám. Zvýšil hlas k přehlušení padlého ticha, k přehlušení samoty:
 
-  
+</section>
+
+<section>
 
 _Domine, labia mea aperies:_
 
-  
+</section>
+
+<section>
 
 Co to vlastně drmolil, co odříkával z hrozící bezpaměti? Hlas v tom úzkém, tvrdém obličeji se lámal v naléhavý, prosebný šepot plný vysílení. Další zaříkadlo latinských modliteb už neznal a zbývala hodina do svítání. Zbyla mu slova v řeči již srozumitelné, slova žalmistova:
 
-  
+</section>
+
+<section>
 
 _Jestliže zapomenu na tebe, Jeruzaléme,  
 zapomniž se i pravice má.  
@@ -273,10 +309,14 @@ jestliže v Jeruzalémě nebudu míti
 největšího potěšení – –  
 Amen!_
 
-  
+</section>
+
+<section>
 
 Pak i on zmlkl. Hrdlo se sevřelo, rty vyschly a možná pukly. Nastával úsvit. Armin von der Heide vstal a vypotácel se z cely. Veřeje dveří povolily a uhodil ho bílý jas. Měl pocit, že oslepl za postní dobu v komůrce z kamene. Neboť jeho oči, otevřené a ohromené, vůbec nesnesly to světlo.
 
 Pít! Raději oslepnout než umírat bez vody.
 
 Jako před Akkonem?…
+
+</section>

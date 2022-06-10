@@ -3,6 +3,8 @@ title: VIIDoma
 contentType: prose
 ---
 
+<section>
+
 Ještě záhyb stezky, ještě břeh propletený vrbovím a zabělají se zdi. Tam! Stovka posledních kroků, těch nejtěžších, a chodník v borůvčí končil. Ten pohled byl příliš toužebný, aby potěšil, když se stal skutečným. Mýtina s trávou a ještě vyšším kapradím se svažovala. Hned pod lesem stál rozlehlý zemanský dvorec a slunce zářilo na obou malých věžích a kamenných zdech. Střecha byla zašedlá šindeli. Prošlá léta dala dřevu pevnost kovu. Proč tak všechno strašně zevšední, když se vracíš domů?
 
 Ondřej z Vlkova stál dosud skrytý za stromem na pokraji lesa. Měl na sobě zbytky drátěné košile, provaz kolem pasu, v rohové pochvě dýku. Kdo nad ním zaběduje první? Bylo otevřeno.
@@ -222,3 +224,5 @@ Ondřej ležel bez hnutí v komoře, zkřížil jen ruce na prsou. Ale nemodlil
 Dětství bylo ztraceno otcovým slibem, v širokém lůžku spal Ondřej sám. Samota nikdy není tak smutná, jak v rytířském sále plném spících bratří. Také uléhali s rukama zkříženýma a s meči, spávali v drátěných nohavicích, bezmocnější ve spánku, než kdyby byli mrtvi, pohřbeni svým údělem hůř než pod kameny.
 
 Umřeli všichni! Bděl jen Ondřej a čekal, kdy se doškvaří světlo v misce, aby mohl zavřít oči a naslouchat tikání smrti v trámech.
+
+</section>

@@ -3,6 +3,8 @@ title: IIModlitba
 contentType: prose
 ---
 
+<section>
+
 Vlny se blížily ke břehům, zesilovaly a rozbíjely se v písku jako v nepaměti věků. Nenesly jediný kámen, jen za jarních bouří jantar a ze severu zřídka tělo utopence. Vítr je osušil, mrtvolu zavál písek a pobřeží bylo prošlými léty stále jako nedotčené. Moře si ponechávalo pošmourný břidlicový nádech stejně jako mračna nad vrakem a celé to opuštěné pobřeží západních Prus.
 
 V písku nyní leželi dva muži, oba nazí. Jen jejich těla zářila v pruském šeru. Ruce se zdály ukřižované k zemi, zatímco tváře se obracely k obloze. Tam nebylo pohybu ani zmítání. Každá z přibíhajících vln dosáhla téměř jejich nohou. Leželi totiž přímo v chladném pásu příboje a země. Ondřej cítil chlad umrtvující jakékoliv hnutí v těle, rozléval se všude kolem, cítil, jak vlnobití odnáší slova Armina von der Heide zpátky do moře jako nezajímavý šum.
@@ -109,12 +111,16 @@ Bůh s vámi, zrazení bratři, říkal svým pohledem. Množství osamělých 
 
 Začínal půst. Již se ozýval jednotvárný zpěv.
 
-  
+</section>
+
+<section>
 
 _Constant in choro  
 Sicut asellus in foro…_
 
-  
+</section>
+
+<section>
 
 zněl chorál nad arkádami, nad boční stranou refektáře.
 
@@ -139,3 +145,5 @@ Komtur Rawino von Leiningen se rozhlédl.
 – Bratra Rotgiera jsem neviděl v hradě. Je snad nemocen? –
 
 V té chvíli udeřil do ticha zvon. Hrad se zachvěl, pochodně dusily, neboť to byl zvon z Mikulášovy věže volající zbloudilce na moři i na souši k návratu. Jeho zadunění se odráželo mezi cihlovými klenbami a střechami, jako by volalo z hrobu: spas se, kdo můžeš…
+
+</section>
