@@ -1,11 +1,15 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
       "title": "Údolí včel",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Vladimír Körner",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2020-09-16T00:00:00.000Z"
+      "modified": "2020-09-16T00:00:00.000Z",
+      "isbn": "978-80-274-1025-5",
+      "contentType": "prose",
+      "publisherShort": "mkp"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -20,11 +24,11 @@
       "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
       "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
-      "centered": ".*uprostred.*",
       "figure": "MLP.obrazky.*\nmlpobrazky",
+      "centered": ".*uprostred.*",
+      "verse": "MLP.verse.*",
       "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
       "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
-      "verse": "MLP.verse.*",
       "remove": "",
       "ignore": ""
     },
@@ -32,50 +36,55 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "udoli_vcel_001.md",
             "xhtml": "udoli_vcel_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "udoli_vcel_002.md",
             "xhtml": "udoli_vcel_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "udoli_vcel_003.md",
             "xhtml": "udoli_vcel_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "udoli_vcel_004.md",
             "xhtml": "udoli_vcel_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "udoli_vcel_005.md",
@@ -86,73 +95,88 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "udoli_vcel_006.md",
-            "xhtml": "udoli_vcel_006.xhtml",
-            "id": 5,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "udoli_vcel_007.md",
-            "xhtml": "udoli_vcel_007.xhtml",
-            "id": 6,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "udoli_vcel_008.md",
-            "xhtml": "udoli_vcel_008.xhtml",
-            "id": 7,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "udoli_vcel_009.md",
-            "xhtml": "udoli_vcel_009.xhtml",
-            "id": 8,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "udoli_vcel_010.md",
-            "xhtml": "udoli_vcel_010.xhtml",
-            "id": 9,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "udoli_vcel_011.md",
-            "xhtml": "udoli_vcel_011.xhtml",
-            "id": 10,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "udoli_vcel_006.md",
+                "xhtml": "udoli_vcel_006.xhtml",
+                "id": 5,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "I\nŘádový slib"
+              },
+              {
+                "filename": "udoli_vcel_007.md",
+                "xhtml": "udoli_vcel_007.xhtml",
+                "id": 6,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "II\nModlitba"
+              },
+              {
+                "filename": "udoli_vcel_008.md",
+                "xhtml": "udoli_vcel_008.xhtml",
+                "id": 7,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "III\nRotgierův útěk"
+              },
+              {
+                "filename": "udoli_vcel_009.md",
+                "xhtml": "udoli_vcel_009.xhtml",
+                "id": 8,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "IV\nÚtěk Ondřejův"
+              },
+              {
+                "filename": "udoli_vcel_010.md",
+                "xhtml": "udoli_vcel_010.xhtml",
+                "id": 9,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "V\nV Čechách"
+              },
+              {
+                "filename": "udoli_vcel_011.md",
+                "xhtml": "udoli_vcel_011.xhtml",
+                "id": 10,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "VI\nMilíře"
+              }
+            ],
+            "title": "Část první\nVLCI"
           },
           {
             "filename": "udoli_vcel_012.md",
@@ -163,73 +187,87 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "udoli_vcel_013.md",
-            "xhtml": "udoli_vcel_013.xhtml",
-            "id": 12,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "udoli_vcel_014.md",
-            "xhtml": "udoli_vcel_014.xhtml",
-            "id": 13,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "udoli_vcel_015.md",
-            "xhtml": "udoli_vcel_015.xhtml",
-            "id": 14,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "udoli_vcel_016.md",
-            "xhtml": "udoli_vcel_016.xhtml",
-            "id": 15,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "udoli_vcel_017.md",
-            "xhtml": "udoli_vcel_017.xhtml",
-            "id": 16,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "udoli_vcel_013.md",
+                "xhtml": "udoli_vcel_013.xhtml",
+                "id": 12,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "VII\nDoma"
+              },
+              {
+                "filename": "udoli_vcel_014.md",
+                "xhtml": "udoli_vcel_014.xhtml",
+                "id": 13,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "VIII\nJak žijí včely"
+              },
+              {
+                "filename": "udoli_vcel_015.md",
+                "xhtml": "udoli_vcel_015.xhtml",
+                "id": 14,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "IX\nLetnice"
+              },
+              {
+                "filename": "udoli_vcel_016.md",
+                "xhtml": "udoli_vcel_016.xhtml",
+                "id": 15,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "X\nStín nového kostela"
+              },
+              {
+                "filename": "udoli_vcel_017.md",
+                "xhtml": "udoli_vcel_017.xhtml",
+                "id": 16,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XI\nSvatba"
+              }
+            ],
+            "title": "Část druhá\nVČELY"
           },
           {
             "filename": "udoli_vcel_018.md",
             "xhtml": "udoli_vcel_018.xhtml",
             "id": 17,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -416,6 +454,6 @@
       "user": "books-are-next",
       "repo": "korner-udoli-vcel"
     },
-    "generatedAt": 1658413643926
+    "generatedAt": 1660590189729
   }
 }
