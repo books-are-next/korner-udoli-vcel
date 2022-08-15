@@ -34,46 +34,46 @@ tocBase:
   - id: section-1
     children:
       - link: udoli_vcel_005.html
-        title: Část první. VLCI
+        title: Část první VLCI
         hiddenTitle: false
         children:
           - link: udoli_vcel_006.html
-            title: I. Řádový slib
+            title: I Řádový slib
             hiddenTitle: false
           - link: udoli_vcel_007.html
-            title: II. Modlitba
+            title: II Modlitba
             hiddenTitle: false
           - link: udoli_vcel_008.html
-            title: III. Rotgierův útěk
+            title: III Rotgierův útěk
             hiddenTitle: false
           - link: udoli_vcel_009.html
-            title: IV. Útěk Ondřejův
+            title: IV Útěk Ondřejův
             hiddenTitle: false
           - link: udoli_vcel_010.html
-            title: "V. V\_Čechách"
+            title: "V V\_Čechách"
             hiddenTitle: false
           - link: udoli_vcel_011.html
-            title: VI. Milíře
+            title: VI Milíře
             hiddenTitle: false
         listType: plain
       - link: udoli_vcel_012.html
-        title: Část druhá. VČELY
+        title: Část druhá VČELY
         hiddenTitle: false
         children:
           - link: udoli_vcel_013.html
-            title: VII. Doma
+            title: VII Doma
             hiddenTitle: false
           - link: udoli_vcel_014.html
-            title: VIII. Jak žijí včely
+            title: VIII Jak žijí včely
             hiddenTitle: false
           - link: udoli_vcel_015.html
-            title: IX. Letnice
+            title: IX Letnice
             hiddenTitle: false
           - link: udoli_vcel_016.html
-            title: X. Stín nového kostela
+            title: X Stín nového kostela
             hiddenTitle: false
           - link: udoli_vcel_017.html
-            title: XI. Svatba
+            title: XI Svatba
             hiddenTitle: false
         listType: plain
     isSection: true
