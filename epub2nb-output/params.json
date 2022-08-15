@@ -108,7 +108,7 @@
                 "devoured": false,
                 "hiddenTitle": false,
                 "children": [],
-                "title": "I\nŘádový slib"
+                "title": "I Řádový slib"
               },
               {
                 "filename": "udoli_vcel_007.md",
@@ -121,7 +121,7 @@
                 "devoured": false,
                 "hiddenTitle": false,
                 "children": [],
-                "title": "II\nModlitba"
+                "title": "II Modlitba"
               },
               {
                 "filename": "udoli_vcel_008.md",
@@ -134,7 +134,7 @@
                 "devoured": false,
                 "hiddenTitle": false,
                 "children": [],
-                "title": "III\nRotgierův útěk"
+                "title": "III Rotgierův útěk"
               },
               {
                 "filename": "udoli_vcel_009.md",
@@ -147,7 +147,7 @@
                 "devoured": false,
                 "hiddenTitle": false,
                 "children": [],
-                "title": "IV\nÚtěk Ondřejův"
+                "title": "IV Útěk Ondřejův"
               },
               {
                 "filename": "udoli_vcel_010.md",
@@ -160,7 +160,7 @@
                 "devoured": false,
                 "hiddenTitle": false,
                 "children": [],
-                "title": "V\nV Čechách"
+                "title": "V V Čechách"
               },
               {
                 "filename": "udoli_vcel_011.md",
@@ -173,10 +173,10 @@
                 "devoured": false,
                 "hiddenTitle": false,
                 "children": [],
-                "title": "VI\nMilíře"
+                "title": "VI Milíře"
               }
             ],
-            "title": "Část první\nVLCI"
+            "title": "Část první VLCI"
           },
           {
             "filename": "udoli_vcel_012.md",
@@ -200,7 +200,7 @@
                 "devoured": false,
                 "hiddenTitle": false,
                 "children": [],
-                "title": "VII\nDoma"
+                "title": "VII Doma"
               },
               {
                 "filename": "udoli_vcel_014.md",
@@ -213,7 +213,7 @@
                 "devoured": false,
                 "hiddenTitle": false,
                 "children": [],
-                "title": "VIII\nJak žijí včely"
+                "title": "VIII Jak žijí včely"
               },
               {
                 "filename": "udoli_vcel_015.md",
@@ -226,7 +226,7 @@
                 "devoured": false,
                 "hiddenTitle": false,
                 "children": [],
-                "title": "IX\nLetnice"
+                "title": "IX Letnice"
               },
               {
                 "filename": "udoli_vcel_016.md",
@@ -239,7 +239,7 @@
                 "devoured": false,
                 "hiddenTitle": false,
                 "children": [],
-                "title": "X\nStín nového kostela"
+                "title": "X Stín nového kostela"
               },
               {
                 "filename": "udoli_vcel_017.md",
@@ -252,10 +252,10 @@
                 "devoured": false,
                 "hiddenTitle": false,
                 "children": [],
-                "title": "XI\nSvatba"
+                "title": "XI Svatba"
               }
             ],
-            "title": "Část druhá\nVČELY"
+            "title": "Část druhá VČELY"
           },
           {
             "filename": "udoli_vcel_018.md",
@@ -454,6 +454,6 @@
       "user": "books-are-next",
       "repo": "korner-udoli-vcel"
     },
-    "generatedAt": 1660594437247
+    "generatedAt": 1660594831330
   }
 }
