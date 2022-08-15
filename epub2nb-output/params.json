@@ -96,6 +96,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "Část první VLCI",
             "children": [
               {
                 "filename": "udoli_vcel_006.md",
@@ -107,8 +108,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "I. Řádový slib"
+                "title": "I Řádový slib",
+                "children": []
               },
               {
                 "filename": "udoli_vcel_007.md",
@@ -120,8 +121,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "II. Modlitba"
+                "title": "II Modlitba",
+                "children": []
               },
               {
                 "filename": "udoli_vcel_008.md",
@@ -133,8 +134,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "III. Rotgierův útěk"
+                "title": "III Rotgierův útěk",
+                "children": []
               },
               {
                 "filename": "udoli_vcel_009.md",
@@ -146,8 +147,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "IV. Útěk Ondřejův"
+                "title": "IV Útěk Ondřejův",
+                "children": []
               },
               {
                 "filename": "udoli_vcel_010.md",
@@ -159,8 +160,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "V. V Čechách"
+                "title": "V V Čechách",
+                "children": []
               },
               {
                 "filename": "udoli_vcel_011.md",
@@ -172,11 +173,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "VI. Milíře"
+                "title": "VI Milíře",
+                "children": []
               }
-            ],
-            "title": "Část první. VLCI"
+            ]
           },
           {
             "filename": "udoli_vcel_012.md",
@@ -188,6 +188,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "Část druhá VČELY",
             "children": [
               {
                 "filename": "udoli_vcel_013.md",
@@ -199,8 +200,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "VII. Doma"
+                "title": "VII Doma",
+                "children": []
               },
               {
                 "filename": "udoli_vcel_014.md",
@@ -212,8 +213,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "VIII. Jak žijí včely"
+                "title": "VIII Jak žijí včely",
+                "children": []
               },
               {
                 "filename": "udoli_vcel_015.md",
@@ -225,8 +226,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "IX. Letnice"
+                "title": "IX Letnice",
+                "children": []
               },
               {
                 "filename": "udoli_vcel_016.md",
@@ -238,8 +239,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "X. Stín nového kostela"
+                "title": "X Stín nového kostela",
+                "children": []
               },
               {
                 "filename": "udoli_vcel_017.md",
@@ -251,11 +252,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XI. Svatba"
+                "title": "XI Svatba",
+                "children": []
               }
-            ],
-            "title": "Část druhá. VČELY"
+            ]
           },
           {
             "filename": "udoli_vcel_018.md",
@@ -454,6 +454,6 @@
       "user": "books-are-next",
       "repo": "korner-udoli-vcel"
     },
-    "generatedAt": 1660595614745
+    "generatedAt": 1660596185817
   }
 }
