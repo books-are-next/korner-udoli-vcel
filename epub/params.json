@@ -108,7 +108,7 @@
                 "devoured": false,
                 "hiddenTitle": false,
                 "children": [],
-                "title": "I Řádový slib"
+                "title": "I. Řádový slib"
               },
               {
                 "filename": "udoli_vcel_007.md",
@@ -121,7 +121,7 @@
                 "devoured": false,
                 "hiddenTitle": false,
                 "children": [],
-                "title": "II Modlitba"
+                "title": "II. Modlitba"
               },
               {
                 "filename": "udoli_vcel_008.md",
@@ -134,7 +134,7 @@
                 "devoured": false,
                 "hiddenTitle": false,
                 "children": [],
-                "title": "III Rotgierův útěk"
+                "title": "III. Rotgierův útěk"
               },
               {
                 "filename": "udoli_vcel_009.md",
@@ -147,7 +147,7 @@
                 "devoured": false,
                 "hiddenTitle": false,
                 "children": [],
-                "title": "IV Útěk Ondřejův"
+                "title": "IV. Útěk Ondřejův"
               },
               {
                 "filename": "udoli_vcel_010.md",
@@ -160,7 +160,7 @@
                 "devoured": false,
                 "hiddenTitle": false,
                 "children": [],
-                "title": "V V Čechách"
+                "title": "V. V Čechách"
               },
               {
                 "filename": "udoli_vcel_011.md",
@@ -173,10 +173,10 @@
                 "devoured": false,
                 "hiddenTitle": false,
                 "children": [],
-                "title": "VI Milíře"
+                "title": "VI. Milíře"
               }
             ],
-            "title": "Část první VLCI"
+            "title": "Část první. VLCI"
           },
           {
             "filename": "udoli_vcel_012.md",
@@ -200,7 +200,7 @@
                 "devoured": false,
                 "hiddenTitle": false,
                 "children": [],
-                "title": "VII Doma"
+                "title": "VII. Doma"
               },
               {
                 "filename": "udoli_vcel_014.md",
@@ -213,7 +213,7 @@
                 "devoured": false,
                 "hiddenTitle": false,
                 "children": [],
-                "title": "VIII Jak žijí včely"
+                "title": "VIII. Jak žijí včely"
               },
               {
                 "filename": "udoli_vcel_015.md",
@@ -226,7 +226,7 @@
                 "devoured": false,
                 "hiddenTitle": false,
                 "children": [],
-                "title": "IX Letnice"
+                "title": "IX. Letnice"
               },
               {
                 "filename": "udoli_vcel_016.md",
@@ -239,7 +239,7 @@
                 "devoured": false,
                 "hiddenTitle": false,
                 "children": [],
-                "title": "X Stín nového kostela"
+                "title": "X. Stín nového kostela"
               },
               {
                 "filename": "udoli_vcel_017.md",
@@ -252,10 +252,10 @@
                 "devoured": false,
                 "hiddenTitle": false,
                 "children": [],
-                "title": "XI Svatba"
+                "title": "XI. Svatba"
               }
             ],
-            "title": "Část druhá VČELY"
+            "title": "Část druhá. VČELY"
           },
           {
             "filename": "udoli_vcel_018.md",
@@ -308,25 +308,25 @@
         "xhtml": "udoli_vcel_004.xhtml"
       },
       {
-        "titleSuggest": "Část první<br />VLCI",
+        "titleSuggest": "Část prvníVLCI",
         "subtitleSuggest": "",
         "filename": "udoli_vcel_005.md",
         "xhtml": "udoli_vcel_005.xhtml"
       },
       {
-        "titleSuggest": "I<br />Řádový slib",
+        "titleSuggest": "IŘádový slib",
         "subtitleSuggest": "",
         "filename": "udoli_vcel_006.md",
         "xhtml": "udoli_vcel_006.xhtml"
       },
       {
-        "titleSuggest": "II<br />Modlitba",
+        "titleSuggest": "IIModlitba",
         "subtitleSuggest": "",
         "filename": "udoli_vcel_007.md",
         "xhtml": "udoli_vcel_007.xhtml"
       },
       {
-        "titleSuggest": "III<br />Rotgierův útěk",
+        "titleSuggest": "IIIRotgierův útěk",
         "subtitleSuggest": "",
         "filename": "udoli_vcel_008.md",
         "xhtml": "udoli_vcel_008.xhtml"
