@@ -1,5 +1,5 @@
 ---
-title: IŘádový slib
+title: I Řádový slib
 contentType: prose
 ---
 
