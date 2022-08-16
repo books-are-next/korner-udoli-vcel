@@ -1,5 +1,5 @@
 ---
-title: XStín nového kostela
+title: X Stín nového kostela
 contentType: prose
 ---
 

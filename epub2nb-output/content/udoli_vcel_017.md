@@ -1,5 +1,5 @@
 ---
-title: XISvatba
+title: XI Svatba
 contentType: prose
 ---
 
