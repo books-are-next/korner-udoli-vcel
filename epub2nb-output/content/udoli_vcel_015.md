@@ -1,5 +1,5 @@
 ---
-title: IX Letnice
+title: IXLetnice
 contentType: prose
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Část druhá VČELY
+title: Část druháVČELY
 contentType: prose
 ---
 

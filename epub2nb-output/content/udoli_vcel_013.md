@@ -1,5 +1,5 @@
 ---
-title: VII Doma
+title: VIIDoma
 contentType: prose
 ---
 

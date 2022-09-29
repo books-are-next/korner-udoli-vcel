@@ -1,5 +1,5 @@
 ---
-title: VI Milíře
+title: VIMilíře
 contentType: prose
 ---
 
