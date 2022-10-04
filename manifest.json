@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "korner-udoli-vcel-b6aee19",
-  "revision": "b6aee19",
+  "identifier": "korner-udoli-vcel-2ab7c7a",
+  "revision": "2ab7c7a",
   "readingOrder": [
     "promo.html",
     "udoli_vcel_002.html",
@@ -28,8 +28,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 15:57:33 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664639853821
+    "date": "Tue Oct 04 2022 16:45:27 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664901927212
   },
   "documents": [
     {
