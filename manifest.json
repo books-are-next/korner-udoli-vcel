@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "korner-udoli-vcel-15d1af0",
-  "revision": "15d1af0",
+  "identifier": "korner-udoli-vcel-3262bf3",
+  "revision": "3262bf3",
   "readingOrder": [
     "promo.html",
     "udoli_vcel_002.html",
@@ -28,8 +28,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:51:22 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150682123
+    "date": "Mon Oct 10 2022 15:43:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416606105
   },
   "documents": [
     {
@@ -328,7 +328,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 138,
-      "chars": 927,
+      "chars": 928,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -348,7 +348,7 @@
   "totals": {
     "all": {
       "words": 35038,
-      "chars": 198732,
+      "chars": 198733,
       "ideas": 1421
     },
     "chapters": {
