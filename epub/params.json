@@ -7,9 +7,10 @@
       "author": "Vladimír Körner",
       "publisher": "Městská knihovna v Praze",
       "modified": "2020-09-16T00:00:00.000Z",
-      "isbn": "978-80-274-1025-5",
+      "isbn": "978-80-274-2803-8",
       "contentType": "prose",
-      "publisherShort": "mkp"
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "MLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.*\nMLP.uroven1.PARAL\nMLP.uroven2.basne\nMLP.uroven2.kapitola\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*",
@@ -54,7 +55,7 @@
             "filename": "udoli_vcel_002.md",
             "xhtml": "udoli_vcel_002.xhtml",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -308,79 +309,79 @@
         "xhtml": "udoli_vcel_004.xhtml"
       },
       {
-        "titleSuggest": "Část první VLCI",
+        "titleSuggest": "Část prvníVLCI",
         "subtitleSuggest": "",
         "filename": "udoli_vcel_005.md",
         "xhtml": "udoli_vcel_005.xhtml"
       },
       {
-        "titleSuggest": "I Řádový slib",
+        "titleSuggest": "IŘádový slib",
         "subtitleSuggest": "",
         "filename": "udoli_vcel_006.md",
         "xhtml": "udoli_vcel_006.xhtml"
       },
       {
-        "titleSuggest": "II Modlitba",
+        "titleSuggest": "IIModlitba",
         "subtitleSuggest": "",
         "filename": "udoli_vcel_007.md",
         "xhtml": "udoli_vcel_007.xhtml"
       },
       {
-        "titleSuggest": "III Rotgierův útěk",
+        "titleSuggest": "IIIRotgierův útěk",
         "subtitleSuggest": "",
         "filename": "udoli_vcel_008.md",
         "xhtml": "udoli_vcel_008.xhtml"
       },
       {
-        "titleSuggest": "IV Útěk Ondřejův",
+        "titleSuggest": "IVÚtěk Ondřejův",
         "subtitleSuggest": "",
         "filename": "udoli_vcel_009.md",
         "xhtml": "udoli_vcel_009.xhtml"
       },
       {
-        "titleSuggest": "V V Čechách",
+        "titleSuggest": "VV Čechách",
         "subtitleSuggest": "",
         "filename": "udoli_vcel_010.md",
         "xhtml": "udoli_vcel_010.xhtml"
       },
       {
-        "titleSuggest": "VI Milíře",
+        "titleSuggest": "VIMilíře",
         "subtitleSuggest": "",
         "filename": "udoli_vcel_011.md",
         "xhtml": "udoli_vcel_011.xhtml"
       },
       {
-        "titleSuggest": "Část druhá VČELY",
+        "titleSuggest": "Část druháVČELY",
         "subtitleSuggest": "",
         "filename": "udoli_vcel_012.md",
         "xhtml": "udoli_vcel_012.xhtml"
       },
       {
-        "titleSuggest": "VII Doma",
+        "titleSuggest": "VIIDoma",
         "subtitleSuggest": "",
         "filename": "udoli_vcel_013.md",
         "xhtml": "udoli_vcel_013.xhtml"
       },
       {
-        "titleSuggest": "VIII Jak žijí včely",
+        "titleSuggest": "VIIIJak žijí včely",
         "subtitleSuggest": "",
         "filename": "udoli_vcel_014.md",
         "xhtml": "udoli_vcel_014.xhtml"
       },
       {
-        "titleSuggest": "IX Letnice",
+        "titleSuggest": "IXLetnice",
         "subtitleSuggest": "",
         "filename": "udoli_vcel_015.md",
         "xhtml": "udoli_vcel_015.xhtml"
       },
       {
-        "titleSuggest": "X Stín nového kostela",
+        "titleSuggest": "XStín nového kostela",
         "subtitleSuggest": "",
         "filename": "udoli_vcel_016.md",
         "xhtml": "udoli_vcel_016.xhtml"
       },
       {
-        "titleSuggest": "XI Svatba",
+        "titleSuggest": "XISvatba",
         "subtitleSuggest": "",
         "filename": "udoli_vcel_017.md",
         "xhtml": "udoli_vcel_017.xhtml"
@@ -455,6 +456,6 @@
       "user": "books-are-next",
       "repo": "korner-udoli-vcel"
     },
-    "generatedAt": 1660595614745
+    "generatedAt": 1665415629443
   }
 }
