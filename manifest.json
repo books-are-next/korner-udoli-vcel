@@ -5,13 +5,13 @@
   "title": "Údolí včel",
   "author": "Vladimír Körner",
   "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "korner-udoli-vcel-3262bf3",
-  "revision": "3262bf3",
+  "identifier": "korner-udoli-vcel-1cac05b",
+  "revision": "1cac05b",
   "readingOrder": [
     "promo.html",
-    "udoli_vcel_002.html",
     "udoli_vcel_005.html",
     "udoli_vcel_006.html",
     "udoli_vcel_007.html",
@@ -28,8 +28,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 15:43:26 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665416606105
+    "date": "Fri Oct 14 2022 18:52:46 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665773566809
   },
   "documents": [
     {
@@ -41,28 +41,8 @@
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "udoli_vcel_002.html",
-      "toc": []
-    },
-    {
-      "title": "Údolí včel",
-      "file": "udoli_vcel_002.html",
-      "words": 1,
-      "chars": 0,
-      "ideas": 1,
-      "role": "chapter",
-      "order": 1,
-      "prev": "promo.html",
       "next": "udoli_vcel_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Část prvníVLCI",
@@ -71,8 +51,8 @@
       "chars": 14,
       "ideas": 1,
       "role": "chapter",
-      "order": 2,
-      "prev": "udoli_vcel_002.html",
+      "order": 1,
+      "prev": "promo.html",
       "next": "udoli_vcel_006.html",
       "toc": [
         {
@@ -91,7 +71,7 @@
       "chars": 14910,
       "ideas": 77,
       "role": "chapter",
-      "order": 3,
+      "order": 2,
       "prev": "udoli_vcel_005.html",
       "next": "udoli_vcel_007.html",
       "toc": [
@@ -111,7 +91,7 @@
       "chars": 10391,
       "ideas": 68,
       "role": "chapter",
-      "order": 4,
+      "order": 3,
       "prev": "udoli_vcel_006.html",
       "next": "udoli_vcel_008.html",
       "toc": [
@@ -131,7 +111,7 @@
       "chars": 21503,
       "ideas": 130,
       "role": "chapter",
-      "order": 5,
+      "order": 4,
       "prev": "udoli_vcel_007.html",
       "next": "udoli_vcel_009.html",
       "toc": [
@@ -151,7 +131,7 @@
       "chars": 16614,
       "ideas": 108,
       "role": "chapter",
-      "order": 6,
+      "order": 5,
       "prev": "udoli_vcel_008.html",
       "next": "udoli_vcel_010.html",
       "toc": [
@@ -171,7 +151,7 @@
       "chars": 18124,
       "ideas": 141,
       "role": "chapter",
-      "order": 7,
+      "order": 6,
       "prev": "udoli_vcel_009.html",
       "next": "udoli_vcel_011.html",
       "toc": [
@@ -191,7 +171,7 @@
       "chars": 26315,
       "ideas": 193,
       "role": "chapter",
-      "order": 8,
+      "order": 7,
       "prev": "udoli_vcel_010.html",
       "next": "udoli_vcel_012.html",
       "toc": [
@@ -211,7 +191,7 @@
       "chars": 15,
       "ideas": 1,
       "role": "chapter",
-      "order": 9,
+      "order": 8,
       "prev": "udoli_vcel_011.html",
       "next": "udoli_vcel_013.html",
       "toc": [
@@ -231,7 +211,7 @@
       "chars": 13737,
       "ideas": 111,
       "role": "chapter",
-      "order": 10,
+      "order": 9,
       "prev": "udoli_vcel_012.html",
       "next": "udoli_vcel_014.html",
       "toc": [
@@ -251,7 +231,7 @@
       "chars": 13890,
       "ideas": 109,
       "role": "chapter",
-      "order": 11,
+      "order": 10,
       "prev": "udoli_vcel_013.html",
       "next": "udoli_vcel_015.html",
       "toc": [
@@ -271,7 +251,7 @@
       "chars": 15228,
       "ideas": 123,
       "role": "chapter",
-      "order": 12,
+      "order": 11,
       "prev": "udoli_vcel_014.html",
       "next": "udoli_vcel_016.html",
       "toc": [
@@ -291,7 +271,7 @@
       "chars": 22323,
       "ideas": 168,
       "role": "chapter",
-      "order": 13,
+      "order": 12,
       "prev": "udoli_vcel_015.html",
       "next": "udoli_vcel_017.html",
       "toc": [
@@ -311,7 +291,7 @@
       "chars": 24713,
       "ideas": 171,
       "role": "chapter",
-      "order": 14,
+      "order": 13,
       "prev": "udoli_vcel_016.html",
       "next": "about.html",
       "toc": [
@@ -348,13 +328,13 @@
   "totals": {
     "all": {
       "words": 35038,
-      "chars": 198733,
+      "chars": 198741,
       "ideas": 1421
     },
     "chapters": {
-      "words": 34895,
+      "words": 34894,
       "chars": 197777,
-      "ideas": 1402
+      "ideas": 1401
     }
   }
 }
