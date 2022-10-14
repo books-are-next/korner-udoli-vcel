@@ -10,12 +10,12 @@ meta:
   author: Vladimír Körner
   publisher: Městská knihovna v Praze
   modified: '2020-09-16T00:00:00.000Z'
-  isbn: 978-80-274-1025-5
+  isbn: 978-80-274-2803-8
   contentType: prose
   publisherShort: mkp
+  edition: beletrie
 readingOrder:
   - promo.html
-  - udoli_vcel_002.html
   - udoli_vcel_005.html
   - udoli_vcel_006.html
   - udoli_vcel_007.html
